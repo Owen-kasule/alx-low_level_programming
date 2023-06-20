@@ -1,9 +1,9 @@
 /*
  * File: 4-isalpha.c
- * Auth: Muhereza Owen Kasule
+ * Auth: Brennan D Baraban
  */
 
-#include "main.h"
+#include "holberton.h"
 
 /**
  * _isalpha - Checks if a character is alphabetic.
@@ -13,8 +13,7 @@
  */
 int _isalpha(int c)
 {
-	if ((c >= 'a' && c <= 'z') ||
-	    (c >= 'A' && c <= 'Z'))
+	if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
 		return (1);
 	else
 		return (0);
