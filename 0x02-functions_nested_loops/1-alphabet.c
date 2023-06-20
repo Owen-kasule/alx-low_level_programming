@@ -3,7 +3,7 @@
  * Auth: Brennan D Baraban
  */
 
-#include "1main.h"
+#include "main.h"
 
 /**
  * print_alphabet - prints the alphabet in lowercase, followed by a new line.
