@@ -1,4 +1,16 @@
+/*
+ * File: 0-putchar.c
+ * Auth: Muhereza Owen Kasule 
+ *
+ */
+
 #include "main.h"
+
+/**
+ * main - Entry point of the program
+ *
+ * Return: 0 on success
+ */
 
 int main(void)
 {
