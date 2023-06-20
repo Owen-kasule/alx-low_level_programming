@@ -1,6 +1,6 @@
 /*
  * File: 4-isalpha.c
- * Auth: Brennan D Baraban
+ * Auth: Muhereza Owen Kasule
  */
 
 #include "main.h"
