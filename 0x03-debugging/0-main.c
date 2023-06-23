@@ -1,6 +1,6 @@
 /*
  * File: 0-main.c
- * Auth: Carrie Carr
+ * Auth: Muhereza Owen
  */
 
 #include "main.h"
